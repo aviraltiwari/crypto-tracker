@@ -73,5 +73,5 @@ crawl_currency()
 
 while True:
     crawl_currency()
-    print('__Updating__')
+    print('___Updating___')
     # sleep(5)
